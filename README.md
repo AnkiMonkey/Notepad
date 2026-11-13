@@ -4,6 +4,8 @@
 
 A simple scratchpad panel next to your card in the Anki reviewer. Write down your thoughts, reasoning or a quick answer before you flip the card. That's it, nothing else.
 
+![Notepad panel on the right of the Anki reviewer](screenshots/overview.png)
+
 * **Text mode:** a free scratchpad.
 * **Table mode:** two columns (*Base* / *Notes*), with numbered rows or rows from a TXT template.
 * 100 % local. No account, no cloud, no internet.
