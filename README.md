@@ -12,6 +12,7 @@ A simple scratchpad panel next to your card in the Anki reviewer. Write down you
 
 ## Install
 
+* **AnkiWeb (easiest):** Tools → Add-ons → Get Add-ons → code **`1938640148`** ([AnkiWeb page](https://ankiweb.net/shared/info/1938640148)).
 * **From file:** Tools → Add-ons → Install from file → `notepad.ankiaddon` (build it with `python build.py`).
 * **By hand:** copy this folder into `%APPDATA%\Anki2\addons21\` and restart Anki.
 
