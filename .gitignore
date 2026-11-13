@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+meta.json
+*.ankiaddon
+*.bak
+# your own templates – never commit
+user_files/templates/*
+!user_files/templates/_example_*.txt
